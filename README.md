@@ -11,7 +11,7 @@ lakossági díjszabások szerint, mérőállásokból és számlákból, forintr
 - számla-ellenőrzés reklamáció-tervezettel, éves elszámolási kimutatás, fizetések és határidők
 - szigetüzemi energiamérleg (kísérleti, csak kWh)
 
-A demó a valódi panel, egy **kitalált „Minta otthon” két évnyi generált adatával**. Minden megnézhető és kipróbálható,
+A demó a valódi panel, **kitalált otthonok generált adataival** (kertes ház, fonyódi nyaraló, újbudai bérlakás). Minden megnézhető és kipróbálható,
 de módosítani nem lehet (mérőállás, számla, fizetés, mentés). Személyes adatot nem tartalmaz.
 
 **Állapot:** fejlesztés alatt, még nem telepíthető. Ez a tároló csak a demó-oldalt tartalmazza, az integráció forráskódját nem.
