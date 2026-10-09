@@ -10,6 +10,7 @@ lakossági díjszabások szerint, mérőállásokból és számlákból, forintr
 - napelemes szaldó és bruttó elszámolás (1.8.0 / 2.8.0)
 - számla-ellenőrzés reklamáció-tervezettel, éves elszámolási kimutatás, fizetések és határidők
 - szigetüzemi energiamérleg (kísérleti, csak kWh)
+- indítókártya az irányítópultra: vonalas ház a kifizetetlen számlák összegével, benti/kinti hőmérséklettel, fűtéskor füsttel
 
 A demó a valódi panel, **kitalált otthonok generált adataival** (kertes ház, fonyódi nyaraló, újbudai bérlakás). Minden megnézhető és kipróbálható,
 de módosítani nem lehet (mérőállás, számla, fizetés, mentés). Személyes adatot nem tartalmaz.
