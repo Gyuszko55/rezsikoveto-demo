@@ -8,6 +8,7 @@ lakossági díjszabások szerint, mérőállásokból és számlákból, forintr
 - átalány és éves egyenleg, kedvezményes keret, sávkorrekció
 - H-tarifa két regiszterrel (téli 1.81 / nyári 1.82)
 - napelemes szaldó és bruttó elszámolás (1.8.0 / 2.8.0)
+- mátrix-nézet és számlanaptár; az MVM közös folyószámlás áramfiókjai egy „MVM Áram” sorban; „✓ diktálva” jelzés
 - számla-ellenőrzés reklamáció-tervezettel, éves elszámolási kimutatás, fizetések és határidők
 - szigetüzemi energiamérleg (kísérleti, csak kWh)
 - indítókártya az irányítópultra: vonalas ház a kifizetetlen számlák összegével, benti/kinti hőmérséklettel, fűtéskor füsttel
@@ -16,7 +17,7 @@ lakossági díjszabások szerint, mérőállásokból és számlákból, forintr
 A demó a valódi panel, **kitalált otthonok generált adataival** (kertes ház, fonyódi nyaraló, újbudai bérlakás). Minden megnézhető és kipróbálható,
 de módosítani nem lehet (mérőállás, számla, fizetés, mentés). Személyes adatot nem tartalmaz.
 
-**Állapot:** fejlesztés alatt, még nem telepíthető. Ez a tároló csak a demó-oldalt tartalmazza, az integráció forráskódját nem.
+**Állapot:** a demó a 2.4 béta panelt mutatja. Az integráció tárolója: https://github.com/Gyuszko55/ha-energia-elszamolas-hu. Ez a tároló csak a demó-oldalt tartalmazza, az integráció forráskódját nem.
 
 ---
 
